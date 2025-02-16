@@ -21,6 +21,8 @@ The various services in the sample application already include all required Inst
 
 To see the application performance results in the Instana dashboard, you will first need an Instana account. Don't worry a [trial account](https://instana.com/trial?utm_source=github&utm_medium=robot_shop) is free.
 
+## Architechture
+https://res.cloudinary.com/dsuunnyft/image/upload/v1739723497/f788f2b5-900c-4005-a687-b8ca27f9ed77_tjzkuz.jpg
 ## Build from Source
 To optionally build from source (you will need a newish version of Docker to do this) use Docker Compose. Optionally edit the `.env` file to specify an alternative image registry and version tag; see the official [documentation](https://docs.docker.com/compose/env-file/) for more information.
 
